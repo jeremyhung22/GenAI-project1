@@ -39,11 +39,8 @@ streamlit run app.py
 ### Usage
 
 1. Open the application in your web browser
-2. Select character attributes (race, class, alignment, etc.)
-3. Click "Generate Backstory" to create a character history
-4. Review and optionally edit the generated backstory
-5. Click "Create Character Art Prompt" to generate an Adobe Firefly prompt
-6. Copy the prompt and paste it into [Adobe Firefly](https://www.adobe.com/products/firefly.html) to visualize your character
+2. Type in character attributes
+3. Click "Submit" to create a character background
 
 ## Resources
 
