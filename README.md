@@ -38,7 +38,7 @@ streamlit run app.py
 
 ### Usage
 
-1. Open the application in your web browser
+1. Open the application in your web browser :  https://genai-project1.streamlit.app/
 2. Type in character attributes
 3. Click "Submit" to create a character background
 
